@@ -1,2 +1,2 @@
-# Passion-RP
-Open source feature configuration and issue tracker for the FiveM server PassionRP
+# Passion-RP Issue Tracker
+You can submit issues for PassionRP FiveM Server here.
